@@ -1,0 +1,60 @@
+body {
+    background: aqua;
+}
+
+h1 {
+    font-size: 48px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 1px 1px 0px #333, -1px -1px 0px #333, 1px -1px 0px #333, -1px 1px 0px #333;
+}
+
+.video-container {
+    width: 320px;
+    height: 568px;
+    background-color: lightgray;
+    display: inline-block;
+}
+
+video {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.video-container2 {
+    width: 320px;
+    height: 568px;
+    background-color: lightgray;
+    display: inline-block;
+}
+
+.video-container3 {
+    width: 320px;
+    height: 568px;
+    background-color: lightgray;
+    display: inline-block;
+}
+
+.video-container4 {
+    width: 320px;
+    height: 568px;
+    background-color: lightgray;
+    display: inline-block;
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #333, -1px -1px 0px #333, 1px -1px 0px #333, -1px 1px 0px #333;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
